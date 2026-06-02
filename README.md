@@ -1,16 +1,59 @@
-# React + Vite
+# Sistema de Control de Ventas y Abonos
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Descripción
 
-Currently, two official plugins are available:
+Aplicación web desarrollada con React y Vite para la gestión de clientes, ventas y control de pagos en parcialidades (abonos).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+El sistema permite administrar clientes, registrar ventas, controlar saldos pendientes y dar seguimiento a los pagos realizados por cada cliente.
 
-## React Compiler
+Este proyecto está siendo desarrollado como parte de mi proceso de aprendizaje y crecimiento profesional en desarrollo web, aplicando conceptos de React, gestión de estado y arquitectura de aplicaciones.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Funcionalidades
 
-## Expanding the ESLint configuration
+* Registro de clientes
+* Edición y eliminación de clientes
+* Registro de ventas
+* Asociación de ventas a clientes
+* Cálculo de saldo pendiente
+* Registro de abonos (en desarrollo)
+* Reportes (en desarrollo)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tecnologías
+
+### Frontend
+
+* React
+* Vite
+* JavaScript (ES6+)
+* Bootstrap 5
+
+### Control de versiones
+
+* Git
+* GitHub
+
+### Próximamente
+
+* ASP.NET Web API
+* SQL Server
+* Stored Procedures
+
+## Estructura del sistema
+
+* Dashboard
+* Clientes
+* Ventas
+* Abonos
+* Reportes
+
+## Objetivo del proyecto
+
+Desarrollar un sistema completo de control de ventas y abonos aplicando buenas prácticas de desarrollo, control de versiones y arquitectura cliente-servidor.
+
+## Estado actual
+
+🚧 Proyecto en desarrollo
+
+## Autor
+
+**Citlali García Mendoza**
