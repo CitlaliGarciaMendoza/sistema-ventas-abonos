@@ -60,7 +60,7 @@ function App() {
 
         {/* Menú lateral */}
         <div className="col-2 bg-dark text-white p-3">
-          <h4>CGM</h4>
+          <h4>CGMl</h4>
           <hr />
 
           <ul className="nav flex-column">
